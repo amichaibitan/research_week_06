@@ -1,2 +1,2 @@
-# research_week_06
+# researchAlgo_ex6
  
